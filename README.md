@@ -1,2 +1,4 @@
 # cuddlebear
-This is our fest test repo for GitHub workshop
+This is our first test repo for GitHub workshop.
+
+Cool.
